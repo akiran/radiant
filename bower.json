@@ -1,0 +1,17 @@
+{
+  "name": "radiant",
+  "version": "0.0.1",
+  "homepage": "https://github.com/akiran/radiant",
+  "authors": [
+    "kiran <kiran@webrafter.com>"
+  ],
+  "description": "radiant",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
